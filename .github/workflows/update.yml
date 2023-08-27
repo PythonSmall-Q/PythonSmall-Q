@@ -1,4 +1,4 @@
-name: Readme Update
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{secret.waka_5e547251-1eda-440e-8dbc-55f7248efc44}}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

@@ -1,6 +1,7 @@
-![PythonSmall-Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonSmall-Q&show_icons=true&theme=radical)
+Hi, I am PythonSmall-Q, a member of XMOj-Script-dev!
 
-![](https://img.shields.io/badge/Most_Used_Language-c++-blue)
+![1](/images/contribs.svg)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![1](/images/languages.svg)
+
+![1](/images/repos.svg)
